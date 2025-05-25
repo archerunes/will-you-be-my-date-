@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Sayang, please... Own me.",
-    "Just think about it!",
-    "I'm at your mercy tonight",
-    "I'm all yours to play with...",
-    "If you say no, I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, come on say YES...! ❤️"
+    "What? Remember I own you.",
+    "You will do as I say",
+    "Get down on your knees, now!",
+    "Your life is to pleasure me",
+    "So you ask to be punished?",
+    "Are you even worth my attention?",
+    "I can take care of that attitude",
+    "I won't repeat myself again",
+    "Lol keep trying, baby doll",
+    "Address me as your Mistress"
 ];
 
 let messageIndex = 0;
